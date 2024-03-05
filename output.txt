@@ -1,0 +1,3 @@
+cow 6
+sheep 4
+pig 6
